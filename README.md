@@ -8,5 +8,5 @@
 
 ## Tecnologías Utilizadas
 - `React`: Utilizado para la construcción de la interfaz de usuario.
-- `HTML y CSS`: Estructura y estilos básicos de la aplicación.
+- `HTML y TailwindCSS`: Estructura y estilos básicos de la aplicación.
 - `JavaScript`: Manejo de la lógica de la aplicación.
