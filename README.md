@@ -1,8 +1,12 @@
-# React + Vite
+# Aplicación de Gestión de Elementos de Texto
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<em> Este proyecto es una aplicación web desarrollada como una prueba técnica para un puesto de React Junior Developer. La aplicación permite agregar y eliminar elementos de texto de manera interactiva. </em>
 
-Currently, two official plugins are available:
+## 🔨 Funcionalidades
+- `Agregar Elementos`: Los usuarios pueden ingresar texto en un campo de entrada y añadirlo a una lista de elementos.
+- `Eliminar Elementos`: Al hacer clic en cualquier parte de un elemento de la lista, este se elimina.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tecnologías Utilizadas
+- `React`: Utilizado para la construcción de la interfaz de usuario.
+- `HTML y CSS`: Estructura y estilos básicos de la aplicación.
+- `JavaScript`: Manejo de la lógica de la aplicación.
